@@ -12,6 +12,4 @@ Build tests with `make test`. `gtest` is expected to exist in a folder called
 
 ## Running
 
-Run `box` with `./run_box`.
-
 Run tests with `./run_tests`.
