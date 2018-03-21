@@ -1,4 +1,4 @@
 *.o
 box
 test
-gtest
+build

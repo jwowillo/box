@@ -5,10 +5,8 @@ implementations of those containers.
 
 ## Building
 
-Build `box` with `make`.
-
-Build tests with `make test`. `gtest` is expected to exist in a folder called
-'gtest' at the project root.
+Build tests with `make test`. `gtest` is expected to be installed in a path
+reachable by CMake.
 
 ## Running
 
